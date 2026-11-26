@@ -1,0 +1,8 @@
+SOURCE: https://api.crossref.org/works/10.1088%2F1748-9326%2Fabfe2c
+RETRIEVED: 2026-11-08
+DOI: 10.1088/1748-9326/abfe2c
+TITLE: Flash drought in Australia and its relationship to evaporative demand
+COVERAGE: Abstract excerpt from Crossref; not full text.
+
+ABSTRACT
+Flash droughts can be distinguished by rapid intensification from near-normal soil moisture to drought conditions in a matter of weeks. Here, we provide the first characterisation of a climatology of flash drought across Australia using a suite of indices. The experiment is designed to capture a range of conditions related to drought: evaporative demand describes the atmospheric demand for moisture from the surface; precipitation, the supply of moisture from the atmosphere to the surface; and evaporative stress, the supply of moisture from the surface relative to the demand from the atmosphere. We show that regardless of the definition, flash droughts occur in all seasons. They can terminate as rapidly as they start, but in some cases can last many months, resulting in a seasonal-scale drought. We show that flash-drought variability and its prevalence can be related to phases of the El Niño–Southern Oscillation, highlighting scope for seasonal-scale prediction. Using a case study in southeast Australia, we show that monitoring precipitation is less useful for capturing the onset of flash drought as it occurs. Instead, indices like the Evaporative Demand Drought Index and Evaporative Stress Index are more useful for monitoring flash-drought development.

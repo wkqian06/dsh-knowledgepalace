@@ -1,0 +1,8 @@
+SOURCE: https://api.openalex.org/works/doi:10.1088/1748-9326/ab13bf
+RETRIEVED: 2026-11-24
+DOI: 10.1088/1748-9326/ab13bf
+TITLE: Extreme weather events in early summer 2018 connected by a recurrent hemispheric wave-7 pattern
+COVERAGE: Abstract from OpenAlex; not full text.
+
+ABSTRACT
+The summer of 2018 witnessed a number of extreme weather events such as heatwaves in North America, Western Europe and the Caspian Sea region, and rainfall extremes in South-East Europe and Japan that occurred near-simultaneously. Here we show that some of these extremes were connected by an amplified hemisphere-wide wavenumber 7 circulation pattern. We show that this pattern constitutes an important teleconnection in Northern Hemisphere summer associated with prolonged and above-normal temperatures in North America, Western Europe and the Caspian Sea region. This pattern was also observed during the European heatwaves of 2003, 2006 and 2015 among others. We show that the occurrence of this wave 7 pattern has increased over recent decades.

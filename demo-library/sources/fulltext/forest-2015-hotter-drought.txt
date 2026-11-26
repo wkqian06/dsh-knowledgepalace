@@ -1,0 +1,8 @@
+SOURCE: https://api.crossref.org/works/10.1890%2Fes15-00203.1
+RETRIEVED: 2026-11-08
+DOI: 10.1890/es15-00203.1
+TITLE: On underestimation of global vulnerability to tree mortality and forest die-off from hotter drought in the Anthropocene
+COVERAGE: Abstract excerpt from Crossref; not full text.
+
+ABSTRACT EXCERPT
+Despite recent observational, experimental, and modeling studies suggesting increased vulnerability of trees to hotter drought and associated pests and pathogens, substantial debate remains among research, management and policy‐making communities regarding future tree mortality risks. We summarize key mortality‐relevant findings, differentiating between those implying lesser versus greater levels of vulnerability.

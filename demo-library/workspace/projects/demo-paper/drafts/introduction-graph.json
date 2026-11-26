@@ -1,0 +1,111 @@
+{
+  "title": "Introduction — argument graph",
+  "section": "introduction",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "role": "opening",
+      "point": "Damage travels as a chain and is governed by the water state, not the rainfall anomaly"
+    },
+    {
+      "id": "p2",
+      "role": "middle",
+      "point": "Monitoring resolves the deficit and not the impact state"
+    },
+    {
+      "id": "p3",
+      "role": "middle",
+      "point": "Forecasts of the deficit are not forecasts of the damage"
+    },
+    {
+      "id": "p4",
+      "role": "middle",
+      "point": "Impact depends on when and where the deficit lands, and is thresholded"
+    },
+    {
+      "id": "p5",
+      "role": "middle",
+      "point": "Onset speed is a second dimension, and its definition is unsettled"
+    },
+    {
+      "id": "p6",
+      "role": "closing",
+      "point": "Open question: connect forecast water states to impact thresholds"
+    }
+  ],
+  "nodes": [
+    {"id": "n1a", "text": "drought types and their relations", "evidence": "raposo-2023 C1", "paragraph": "p1"},
+    {"id": "n1b", "text": "damage transmitted between types", "evidence": "raposo-2023 C1", "paragraph": "p1"},
+    {"id": "n1c", "text": "vegetation response tracks climatic water balance", "evidence": "buras-2020 C1", "paragraph": "p1"},
+    {"id": "n1d", "text": "SPEI adds the demand term", "evidence": "vicente-serrano-2010 C1", "paragraph": "p1"},
+    {"id": "n1e", "text": "impact governed by the water state", "evidence": "", "paragraph": "p1"},
+
+    {"id": "n2a", "text": "global systems: real-time maps + seasonal prediction", "evidence": "hao-2014 C1; hao-2017 C1", "paragraph": "p2"},
+    {"id": "n2b", "text": "in-situ index: point accuracy, no spatial dynamics", "evidence": "hazaymeh-2016 C1", "paragraph": "p2"},
+    {"id": "n2c", "text": "satellite limits: record length, resolution", "evidence": "west-2019 C1", "paragraph": "p2"},
+    {"id": "n2d", "text": "dense for the deficit, thin for the impact state", "evidence": "", "paragraph": "p2"},
+
+    {"id": "n3a", "text": "statistical, dynamical and hybrid forecasting; ML and DL added", "evidence": "hao-2018 C1; nandgude-2023 C1", "paragraph": "p3"},
+    {"id": "n3b", "text": "soil-moisture predictability to decadal horizons", "evidence": "esit-2021 C1", "paragraph": "p3"},
+    {"id": "n3c", "text": "human use decouples hydrological from meteorological drought", "evidence": "yuan-2017 C1", "paragraph": "p3"},
+    {"id": "n3d", "text": "impact forecast skill bound by impact records", "evidence": "sutanto-2020 C1", "paragraph": "p3"},
+    {"id": "n3e", "text": "deficit forecast is not a damage forecast", "evidence": "", "paragraph": "p3"},
+
+    {"id": "n4a", "text": "yield loss peaks at sensitive growth stages", "evidence": "anderson-2016 C1", "paragraph": "p4"},
+    {"id": "n4b", "text": "leaf-area sensitivity to soil moisture rising", "evidence": "li-2022 C1", "paragraph": "p4"},
+    {"id": "n4c", "text": "response thresholds vary geographically", "evidence": "li-2023 C1", "paragraph": "p4"},
+    {"id": "n4d", "text": "European forest mortality is threshold-like", "evidence": "senf-2020 C1", "paragraph": "p4"},
+    {"id": "n4e", "text": "no global drying trend, large spatial variability", "evidence": "steinkamp-2015 C1", "paragraph": "p4"},
+    {"id": "n4f", "text": "thresholds must be located region by region", "evidence": "", "paragraph": "p4"},
+
+    {"id": "n5a", "text": "two decades of flash-drought research", "evidence": "christian-2024 C1", "paragraph": "p5"},
+    {"id": "n5b", "text": "two definitional lines: rate versus duration", "evidence": "otkin-2018 C1", "paragraph": "p5"},
+    {"id": "n5c", "text": "inventories and trends shift with the definition", "evidence": "osman-2021 C1", "paragraph": "p5"},
+    {"id": "n5d", "text": "no consensus on the new normal", "evidence": "yuan-2023 C1", "paragraph": "p5"},
+    {"id": "n5e", "text": "trend claims stay conditional", "evidence": "", "paragraph": "p5"},
+
+    {"id": "n6a", "text": "detection is no longer the binding problem", "evidence": "", "paragraph": "p6"},
+    {"id": "n6b", "text": "water states forecasts can deliver", "evidence": "hao-2014; hao-2017; esit-2021", "paragraph": "p6"},
+    {"id": "n6c", "text": "impact thresholds for crops, vegetation, forests", "evidence": "anderson-2016; li-2022; li-2023; senf-2020", "paragraph": "p6"},
+    {"id": "n6d", "text": "onset speed at which a forecast still arrives in time", "evidence": "otkin-2018; osman-2021", "paragraph": "p6"},
+    {"id": "n6e", "text": "can impact be anticipated rather than documented?", "evidence": "", "paragraph": "p6"}
+  ],
+  "edges": [
+    {"id": "e1", "from": "n1a", "to": "n1b", "label": "defines"},
+    {"id": "e2", "from": "n1c", "to": "n1b", "label": "supports"},
+    {"id": "e3", "from": "n1d", "to": "n1b", "label": "qualifies"},
+    {"id": "e4", "from": "n1b", "to": "n1e", "label": "infers"},
+    {"id": "e5", "from": "n1d", "to": "n1e", "label": "supports"},
+
+    {"id": "e6", "from": "n2a", "to": "n2d", "label": "infers"},
+    {"id": "e7", "from": "n2b", "to": "n2d", "label": "qualifies"},
+    {"id": "e8", "from": "n2c", "to": "n2d", "label": "qualifies"},
+
+    {"id": "e9", "from": "n3a", "to": "n3b", "label": "associates"},
+    {"id": "e10", "from": "n3c", "to": "n3a", "label": "qualifies"},
+    {"id": "e11", "from": "n3d", "to": "n3e", "label": "supports"},
+    {"id": "e12", "from": "n3b", "to": "n3e", "label": "infers"},
+
+    {"id": "e13", "from": "n4a", "to": "n4f", "label": "supports"},
+    {"id": "e14", "from": "n4b", "to": "n4f", "label": "supports"},
+    {"id": "e15", "from": "n4c", "to": "n4b", "label": "qualifies"},
+    {"id": "e16", "from": "n4d", "to": "n4f", "label": "supports"},
+    {"id": "e17", "from": "n4e", "to": "n4f", "label": "supports"},
+
+    {"id": "e18", "from": "n5a", "to": "n5b", "label": "defines"},
+    {"id": "e19", "from": "n5b", "to": "n5c", "label": "infers"},
+    {"id": "e20", "from": "n5c", "to": "n5e", "label": "infers"},
+    {"id": "e21", "from": "n5d", "to": "n5e", "label": "supports"},
+
+    {"id": "e22", "from": "n6a", "to": "n6e", "label": "infers"},
+    {"id": "e23", "from": "n6b", "to": "n6d", "label": "supports"},
+    {"id": "e24", "from": "n6c", "to": "n6d", "label": "supports"},
+    {"id": "e25", "from": "n6d", "to": "n6e", "label": "infers"},
+
+    {"id": "e26", "from": "p1", "to": "p2", "label": "supports"},
+    {"id": "e27", "from": "p2", "to": "p3", "label": "supports"},
+    {"id": "e28", "from": "p3", "to": "p4", "label": "supports"},
+    {"id": "e29", "from": "p4", "to": "p5", "label": "supports"},
+    {"id": "e30", "from": "p5", "to": "p6", "label": "infers"}
+  ]
+}

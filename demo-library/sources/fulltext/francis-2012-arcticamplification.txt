@@ -1,0 +1,8 @@
+SOURCE: https://api.openalex.org/works/doi:10.1029/2012GL051000
+RETRIEVED: 2026-11-24
+DOI: 10.1029/2012GL051000
+TITLE: Evidence linking Arctic amplification to extreme weather in mid‐latitudes
+COVERAGE: Abstract from OpenAlex; not full text.
+
+ABSTRACT
+Arctic amplification (AA) – the observed enhanced warming in high northern latitudes relative to the northern hemisphere – is evident in lower‐tropospheric temperatures and in 1000‐to‐500 hPa thicknesses. Daily fields of 500 hPa heights from the National Centers for Environmental Prediction Reanalysis are analyzed over N. America and the N. Atlantic to assess changes in north‐south (Rossby) wave characteristics associated with AA and the relaxation of poleward thickness gradients. Two effects are identified that each contribute to a slower eastward progression of Rossby waves in the upper‐level flow: 1) weakened zonal winds, and 2) increased wave amplitude. These effects are particularly evident in autumn and winter consistent with sea‐ice loss, but are also apparent in summer, possibly related to earlier snow melt on high‐latitude land. Slower progression of upper‐level waves would cause associated weather patterns in mid‐latitudes to be more persistent, which may lead to an increased probability of extreme weather events that result from prolonged conditions, such as drought, flooding, cold spells, and heat waves.

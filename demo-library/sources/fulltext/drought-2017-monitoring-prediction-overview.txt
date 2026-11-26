@@ -1,0 +1,8 @@
+SOURCE: https://api.crossref.org/works/10.1175%2Fbams-d-15-00149.1
+RETRIEVED: 2026-11-08
+DOI: 10.1175/bams-d-15-00149.1
+TITLE: An Overview of Drought Monitoring and Prediction Systems at Regional and Global Scales
+COVERAGE: Abstract excerpt from Crossref; not full text.
+
+ABSTRACT
+In past decades, severe drought events have struck different regions around the world, leading to huge losses to a wide array of environmental and societal sectors. Because of wide impacts of drought, it is of critical importance to monitor drought in near–real time and provide early warning. This article provides an overview of the development of drought monitoring and prediction systems (DMAPS) at regional and global scales. After introducing drought indicators, drought monitoring (based on different data sources and tools) is summarized, along with an introduction of statistical and dynamical drought prediction approaches. The current progress of the development and implementation of DMAPS with various indicators at different temporal and/or spatial resolutions, based on the land surface modeling, remote sensing, and seasonal climate forecast, at the regional and global scales is then reviewed. Advances in drought monitoring with multiple data sources and tools and prediction from multimodel ensembles are highlighted. Also highlighted are challenges and opportunities, including near-real-time and long-term data products, indicator linkage to impacts, prediction skill improvement, and information dissemination/communication. The review of different components of these systems will provide useful guidelines and insights for the future development of effective DMAPS to aid drought modeling and management.

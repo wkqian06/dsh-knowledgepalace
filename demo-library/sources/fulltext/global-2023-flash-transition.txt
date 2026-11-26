@@ -1,0 +1,8 @@
+SOURCE: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1126%2Fscience.abn6301&resultType=core&format=json
+RETRIEVED: 2026-11-08
+DOI: 10.1126/science.abn6301
+TITLE: A global transition to flash droughts under climate change
+COVERAGE: Abstract excerpt from Europe PMC; not full text.
+
+ABSTRACT
+Flash droughts have occurred frequently worldwide, with a rapid onset that challenges drought monitoring and forecasting capabilities. However, there is no consensus on whether flash droughts have become the new normal because slow droughts may also increase. In this study, we show that drought intensification rates have sped up over subseasonal time scales and that there has been a transition toward more flash droughts over 74% of the global regions identified by the Intergovernmental Panel on Climate Change Special Report on Extreme Events during the past 64 years. The transition is associated with amplified anomalies of evapotranspiration and precipitation deficit caused by anthropogenic climate change. In the future, the transition is projected to expand to most land areas, with larger increases under higher-emission scenarios. These findings underscore the urgency for adapting to faster-onset droughts in a warmer future.

@@ -1,0 +1,8 @@
+SOURCE: https://api.crossref.org/works/10.1111%2F1365-2745.12335
+RETRIEVED: 2026-11-08
+DOI: 10.1111/1365-2745.12335
+TITLE: Is drought-induced forest dieback globally increasing?
+COVERAGE: Abstract excerpt from Crossref; not full text.
+
+ABSTRACT EXCERPT
+Using two climate data sets and three drought indices, we identified no general global drying trend across all forests, but a large spatial variability. We neither detected a general increase in extreme drought events. A weak drying trend and an increase in extreme drought events were only apparent for forests in already dry climates and the locations or regions for which drought‐induced mortality trends have been reported are predominantly in these dry climates.

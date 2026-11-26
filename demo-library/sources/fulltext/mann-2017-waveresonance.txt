@@ -1,0 +1,8 @@
+SOURCE: https://api.openalex.org/works/doi:10.1038/srep45242
+RETRIEVED: 2026-11-24
+DOI: 10.1038/srep45242
+TITLE: Influence of Anthropogenic Climate Change on Planetary Wave Resonance and Extreme Weather Events
+COVERAGE: Abstract from OpenAlex; not full text.
+
+ABSTRACT
+Persistent episodes of extreme weather in the Northern Hemisphere summer have been shown to be associated with the presence of high-amplitude quasi-stationary atmospheric Rossby waves within a particular wavelength range (zonal wavenumber 6-8). The underlying mechanistic relationship involves the phenomenon of quasi-resonant amplification (QRA) of synoptic-scale waves with that wavenumber range becoming trapped within an effective mid-latitude atmospheric waveguide. Recent work suggests an increase in recent decades in the occurrence of QRA-favorable conditions and associated extreme weather, possibly linked to amplified Arctic warming and thus a climate change influence. Here, we isolate a specific fingerprint in the zonal mean surface temperature profile that is associated with QRA-favorable conditions. State-of-the-art ("CMIP5") historical climate model simulations subject to anthropogenic forcing display an increase in the projection of this fingerprint that is mirrored in multiple observational surface temperature datasets. Both the models and observations suggest this signal has only recently emerged from the background noise of natural variability.

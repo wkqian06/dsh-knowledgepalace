@@ -1,0 +1,8 @@
+SOURCE: https://api.crossref.org/works/10.1002%2Fjoc.5389
+RETRIEVED: 2026-11-08
+DOI: 10.1002/joc.5389
+TITLE: Attributing drivers of the 2016 Kenyan drought
+COVERAGE: Abstract excerpt from Crossref; not full text.
+
+ABSTRACT EXCERPT
+Here we aim to quantify the relative contributions of different climate drivers to this drought by applying three independent methodologies of extreme event attribution. Analysing precipitation data for the South East and North West of Kenya we found no consistent signal from human‐induced climate change and thus conclude that it has not greatly affected the likelihood of low rainfall such as in 2016. However, 2016 was a La Niña year and we show that this event was indeed more likely because of the specific sea surface temperatures. There is a trend in temperatures in the region due to climate change that may have exacerbated the effects of this drought.

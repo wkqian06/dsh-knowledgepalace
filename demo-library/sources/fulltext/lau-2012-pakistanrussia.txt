@@ -1,0 +1,8 @@
+SOURCE: https://api.openalex.org/works/doi:10.1175/JHM-D-11-016.1
+RETRIEVED: 2026-11-24
+DOI: 10.1175/JHM-D-11-016.1
+TITLE: The 2010 Pakistan Flood and Russian Heat Wave: Teleconnection of Hydrometeorological Extremes
+COVERAGE: Abstract from OpenAlex; not full text.
+
+ABSTRACT
+In this paper, preliminary results are presented showing that the two record-setting extreme events during 2010 summer (i.e., the Russian heat wave–wildfires and Pakistan flood) were physically connected. It is found that the Russian heat wave was associated with the development of an extraordinarily strong and prolonged extratropical atmospheric blocking event in association with the excitation of a large-scale atmospheric Rossby wave train spanning western Russia, Kazakhstan, and the northwestern China–Tibetan Plateau region. The southward penetration of upper-level vorticity perturbations in the leading trough of the Rossby wave was instrumental in triggering anomalously heavy rain events over northern Pakistan and vicinity in mid- to late July. Also shown are evidences that the Russian heat wave was amplified by a positive feedback through changes in surface energy fluxes between the atmospheric blocking pattern and an underlying extensive land region with below-normal soil moisture. The Pakistan heavy rain events were amplified and sustained by strong anomalous southeasterly flow along the Himalayan foothills and abundant moisture transport from the Bay of Bengal in connection with the northward propagation of the monsoonal intraseasonal oscillation.

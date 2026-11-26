@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "KnowledgePalace",
+    "description": "Your personal academic think tank. Paper cards keep verbatim quotes and page anchors; a 3D hierarchical graph organises them; in Ask the DSH model reasons over your library — explaining, comparing, hypothesising — and labels what is sourced versus inferred; writing projects keep append-only revisions. Open KnowledgePalace in the sidebar and pick the built-in Demo library (70 papers in two domains: drought research and atmospheric circulation) to try it with no setup; for your own papers create a Private library (four folders + .palace.toml, set PALACE_CONFIG). Requires Python 3.12+. Network is used only by commands you run explicitly (collection, refresh); turning the plugin off leaves your library files untouched.",
+    "detail": "docs/DETAIL.md"
+  }
+}

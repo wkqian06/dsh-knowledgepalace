@@ -1,0 +1,8 @@
+SOURCE: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016%2Fj.scitotenv.2023.165550&resultType=core&format=json
+RETRIEVED: 2026-11-08
+DOI: 10.1016/j.scitotenv.2023.165550
+TITLE: A review of recent developments on drought characterization, propagation, and influential factors
+COVERAGE: Abstract excerpt from Europe PMC; not full text.
+
+ABSTRACT EXCERPT
+This review intends to present the state-of-the-art on drought characterization and propagation, as well as providing insights on how climate dynamics and anthropogenic activities might affect this phenomenon. For this purpose, we first address the distinct concepts of droughts and their relationships. Next, we present two frequently utilized methods based on the run theory for drought characterization and explain the development and recovery stages of droughts. Then, we discuss potential drivers for drought occurrence and propagation, with focus on meteorological factors, catchments' physical characteristics and human activities.

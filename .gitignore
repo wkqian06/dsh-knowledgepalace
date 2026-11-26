@@ -1,0 +1,16 @@
+# Local configuration for the author's own private library.
+# Anchored to the repository root on purpose: demo-library/.palace.toml and the
+# test fixtures' configs are part of the project and must be committed.
+/.palace.toml
+
+# Python and Node environments
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local logs and editor/OS noise
+*.log
+.DS_Store
+Thumbs.db

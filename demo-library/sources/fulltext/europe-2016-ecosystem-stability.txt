@@ -1,0 +1,12 @@
+SOURCE: https://api.crossref.org/works/10.1111%2Fgeb.12472
+RETRIEVED: 2026-11-08
+DOI: 10.1111/geb.12472
+TITLE: Assessing European ecosystem stability to drought in the vegetation growing season
+COVERAGE: Abstract excerpt from Crossref; not full text.
+
+ABSTRACT
+Aim: The present study models the response of vegetation to drought between 1982 and 2011 focusing on the growing season, considering: (1) vulnerable versus resistant ecosystems, (2) ecosystem resilience, (3) the delayed response of vegetation to accumulated precipitation deficits and (4) reduction in productivity due to drought.
+Location: Continental Europe.
+Methods: Vegetation condition was analysed by anomalies of the fraction of photosynthetically active radiation absorbed by vegetation (FAPAR) within the growing season. FAPAR was modelled as a function of: (1) monthly deviation from long‐term average drought conditions, (2) past monthly deviation from long‐term average drought conditions, and (3) past monthly deviation from long‐term average FAPAR conditions. Significant regression coefficients were mapped as ecosystem resistance as well as ecosystem resilience to drought. Annual and long‐term growing season productivity were assessed over ecosystems vulnerable to drought within diverse biomes and plant functional types and were studied together with the extent, timing, frequency, duration and intensity of drought events.
+Results: Mediterranean ecosystems showed the least resistance to drought but were resilient. Steppic ecosystems showed weak resistance and also weak resilience. Results also indicated weak resistance against drought of the Atlantic and Continental regions with various recovery rates. Productivity decline was observed when the timing, intensity, frequency and extent of drought events targeted the growing season of the vegetation cover.
+Main conclusions: This study presents an improved method for modelling the impact of drought on the productivity of vegetation by considering the timing, intensity, duration and location of drought events within the growing season, and maps and analyses the resistance and resilience of plant functional types and biomes.

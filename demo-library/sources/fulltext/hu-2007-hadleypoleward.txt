@@ -1,0 +1,8 @@
+SOURCE: https://api.openalex.org/works/doi:10.5194/acp-7-5229-2007
+RETRIEVED: 2026-11-24
+DOI: 10.5194/acp-7-5229-2007
+TITLE: Observed poleward expansion of the Hadley circulation since 1979
+COVERAGE: Abstract from OpenAlex; not full text.
+
+ABSTRACT
+Using three meteorological reanalyses and three outgoing long-wave radiation (OLR) datasets, we show that the Hadley circulation has a significant expansion of about 2 to 4.5 degrees of latitude since 1979. The three reanalyses all indicate that the poleward expansion of the Hadley circulation in each hemisphere occurs during its summer and fall seasons. Results from the OLR datasets do not have such seasonality. The expansion of the Hadley circulation implies a poleward expansion of the band of subtropical subsidence, leading to enhanced mid-latitude tropospheric warming and poleward shifts of the subtropical dry zone. This would contribute to an increased frequency of midlatitude droughts in both hemispheres.

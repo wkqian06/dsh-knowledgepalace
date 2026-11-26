@@ -1,0 +1,8 @@
+SOURCE: https://api.openalex.org/works/doi:10.1146/annurev-environ-110615-085558
+RETRIEVED: 2026-11-24
+DOI: 10.1146/annurev-environ-110615-085558
+TITLE: Major Mechanisms of Atmospheric Moisture Transport and Their Role in Extreme Precipitation Events
+COVERAGE: Abstract from OpenAlex; not full text.
+
+ABSTRACT
+We review the major conceptual models of atmospheric moisture transport, which describe the link between evaporation from the ocean and precipitation over the continents. We begin by summarizing some of the basic aspects of the structure and geographical distribution of the two major mechanisms of atmospheric moisture transport, namely low-level jets (LLJs) and atmospheric rivers (ARs). We then focus on a regional analysis of the role of these mechanisms in extreme precipitation events with particular attention to the intensification (or reduction) of moisture transport and the outcome, in terms of precipitation anomalies and subsequent flooding (drought), and consider changes in the position and occurrence of LLJs and ARs with respect to any associated flooding or drought. We then conclude with a graphical summary of the impacts of precipitation extremes, highlighting the usefulness of this information to hydrologists and policymakers, and describe some future research challenges including the effects of possible changes to ARs and LLJs within the context of future warmer climates.

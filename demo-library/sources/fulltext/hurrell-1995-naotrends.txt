@@ -1,0 +1,8 @@
+SOURCE: https://api.openalex.org/works/doi:10.1126/science.269.5224.676
+RETRIEVED: 2026-11-24
+DOI: 10.1126/science.269.5224.676
+TITLE: Decadal Trends in the North Atlantic Oscillation: Regional Temperatures and Precipitation
+COVERAGE: Abstract from OpenAlex; not full text.
+
+ABSTRACT
+Greenland ice-core data have revealed large decadal climate variations over the North Atlantic that can be related to a major source of low-frequency variability, the North Atlantic Oscillation. Over the past decade, the Oscillation has remained in one extreme phase during the winters, contributing significantly to the recent wintertime warmth across Europe and to cold conditions in the northwest Atlantic. An evaluation of the atmospheric moisture budget reveals coherent large-scale changes since 1980 that are linked to recent dry conditions over southern Europe and the Mediterranean, whereas northern Europe and parts of Scandinavia have generally experienced wetter than normal conditions.

@@ -1,0 +1,40 @@
+{
+  "name": "dsh-knowledgepalace",
+  "version": "0.2.0",
+  "description": "Your personal academic think tank for DeepSeek Harness: a Claim-anchored paper library and 3D knowledge graph that your model reasons with, plus evidence-backed writing sessions.",
+  "author": "wkqian06",
+  "license": "MIT",
+  "type": "module",
+  "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "research", "knowledge-graph", "literature", "evidence"],
+  "icon": "./icon.svg",
+  "engines": { "node": "^22.19 || >=24" },
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js", "python.js", "session-bindings.js", "client.js", "graph-visualization.html",
+    "cordis.patch.yml", "locale/*.json", "icon.svg", "docs", "!docs/media",
+    "knowledge_palace", "!knowledge_palace/tests", "!**/__pycache__",
+    "demo-library",
+    ".palace.example.toml", "pyproject.toml",
+    "README.md", "README.zh-CN.md", "CHANGELOG.md", "PALACE.md", "CONTEXT.md", "AGENTS.md", "DESIGN.md", "LICENSE"
+  ],
+  "dependencies": { "zod": "4.4.3" },
+  "scripts": {
+    "check": "node --check index.js && node --check python.js && node --check client.js",
+    "test": "node --test tests/*.test.js session-bindings.test.js",
+    "test:python": "python -m unittest discover -s knowledge_palace/tests -t ."
+  },
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": ["@deepseek-ai/dsh-client-ui-layout", "@deepseek-ai/dsh-client-ui-sidebar", "@deepseek-ai/dsh-client-ui-workspace", "@deepseek-ai/dsh-client-locale", "@deepseek-ai/dsh-client-session-controller"]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+SOURCE: https://api.crossref.org/works/10.1002%2F2017gl073606
+RETRIEVED: 2026-11-08
+DOI: 10.1002/2017gl073606
+TITLE: Probabilistic estimates of drought impacts on agricultural production
+COVERAGE: Abstract excerpt from Crossref; not full text.
+
+ABSTRACT
+Increases in the severity and frequency of drought in a warming climate may negatively impact agricultural production and food security. Unlike previous studies that have estimated agricultural impacts of climate condition using single‐crop yield distributions, we develop a multivariate probabilistic model that uses projected climatic conditions (e.g., precipitation amount or soil moisture) throughout a growing season to estimate the probability distribution of crop yields. We demonstrate the model by an analysis of the historical period 1980–2012, including the Millennium Drought in Australia (2001–2009). We find that precipitation and soil moisture deficit in dry growing seasons reduced the average annual yield of the five largest crops in Australia (wheat, broad beans, canola, lupine, and barley) by 25–45% relative to the wet growing seasons. Our model can thus produce region‐ and crop‐specific agricultural sensitivities to climate conditions and variability. Probabilistic estimates of yield may help decision‐makers in government and business to quantitatively assess the vulnerability of agriculture to climate variations. We develop a multivariate probabilistic model that uses precipitation to estimate the probability distribution of crop yields. The proposed model shows how the probability distribution of crop yield changes in response to droughts. During Australia's Millennium Drought precipitation and soil moisture deficit reduced the average annual yield of the five largest crops.

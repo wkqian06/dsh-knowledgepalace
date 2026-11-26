@@ -1,0 +1,26 @@
+{
+  "snapshot": {
+    "snapshot_id": "snap-25c0acc4d31d",
+    "vault_fingerprint": "25c0acc4d31dfa23bd938b79d450c10189c93fd19fbde88b15bb075919105749",
+    "built_at": "2026-11-25T06:08:11+00:00"
+  },
+  "entries": [
+    {
+      "node_id": "transfer:transfer-echo-to-gamma",
+      "entry": "hypothesis",
+      "dependencies": [
+        "gap:gap-gamma-drift",
+        "work:alpha-2020-echo"
+      ],
+      "changed_nodes": [],
+      "changed_edges": [],
+      "affected": false,
+      "suggestions": [
+        "retain judgment; no dependency change detected"
+      ],
+      "events": [],
+      "reviews": [],
+      "status": "unchanged"
+    }
+  ]
+}

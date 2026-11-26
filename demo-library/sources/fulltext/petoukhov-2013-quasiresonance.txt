@@ -1,0 +1,8 @@
+SOURCE: https://api.openalex.org/works/doi:10.1073/pnas.1222000110
+RETRIEVED: 2026-11-24
+DOI: 10.1073/pnas.1222000110
+TITLE: Quasiresonant amplification of planetary waves and recent Northern Hemisphere weather extremes
+COVERAGE: Abstract from OpenAlex; not full text.
+
+ABSTRACT
+In recent years, the Northern Hemisphere has suffered several devastating regional summer weather extremes, such as the European heat wave in 2003, the Russian heat wave and the Indus river flood in Pakistan in 2010, and the heat wave in the United States in 2011. Here, we propose a common mechanism for the generation of persistent longitudinal planetary-scale high-amplitude patterns of the atmospheric circulation in the Northern Hemisphere midlatitudes. Those patterns--with zonal wave numbers m = 6, 7, or 8--are characteristic of the above extremes. We show that these patterns might result from trapping within midlatitude waveguides of free synoptic waves with zonal wave numbers k ≈ m. Usually, the quasistationary dynamical response with the above wave numbers m to climatological mean thermal and orographic forcing is weak. Such midlatitude waveguides, however, may favor a strong magnification of that response through quasiresonance.

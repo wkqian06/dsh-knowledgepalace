@@ -1,0 +1,8 @@
+SOURCE: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016%2Fj.rse.2015.11.034&resultType=core&format=json
+RETRIEVED: 2026-11-08
+DOI: 10.1016/j.rse.2015.11.034
+TITLE: The Evaporative Stress Index as an indicator of agricultural drought in Brazil: An assessment based on crop yield impacts
+COVERAGE: Abstract excerpt from Europe PMC; not full text.
+
+ABSTRACT EXCERPT
+In this paper we study correlations for the period 2003–2013 between yield estimates for major crops grown in Brazil and the Evaporative Stress Index (ESI) – an indicator of agricultural drought that describes anomalies in the actual/reference evapotranspiration (ET) ratio, retrieved using remotely sensed inputs of land surface temperature (LST) and leaf area index (LAI). The strength and timing of peak ESI-yield correlations are compared with results using remotely sensed anomalies in water supply (rainfall from the Tropical Rainfall Mapping Mission; TRMM) and biomass accumulation (LAI from the Moderate Resolution Imaging Spectroradiometer; MODIS). Correlation patterns were generally similar between all indices, both spatially and temporally, with the strongest correlations found in the south and northeast where severe flash droughts have occurred over the past decade, and where yield variability was the highest. Peak correlations tended to occur during sensitive crop growth stages.

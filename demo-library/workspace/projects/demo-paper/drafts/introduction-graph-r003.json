@@ -1,0 +1,102 @@
+{
+  "title": "Introduction — argument graph (rebuilt from r003)",
+  "section": "introduction",
+  "paragraphs": [
+    {"id": "p1", "role": "opening", "point": "Damage travels along a chain and is governed by the water state, not the rainfall anomaly alone"},
+    {"id": "p2", "role": "middle", "point": "Monitoring is most complete for the deficit and least for the impact state"},
+    {"id": "p3", "role": "middle", "point": "A forecast of the deficit is not a forecast of the damage"},
+    {"id": "p4", "role": "middle", "point": "Impact depends on when and where the deficit lands, and is thresholded region by region"},
+    {"id": "p5", "role": "middle", "point": "Onset speed is a second dimension, and what flash drought means is unsettled"},
+    {"id": "p6", "role": "closing", "point": "The open question is anticipation: linking forecastable water states to impact thresholds"}
+  ],
+  "nodes": [
+    {"id": "n1a", "text": "Drought is classified by the system it reaches", "evidence": "1 drought-2023-characterization-review C1 (partial: concepts and relationships only)", "paragraph": "p1"},
+    {"id": "n1b", "text": "Damage is transmitted between systems: rainfall deficit, soil moisture, vegetation, yield and carbon exchange", "evidence": "待补 (1 C1 does not state the transmission chain)", "paragraph": "p1"},
+    {"id": "n1c", "text": "2018 European drought: land-cover response varied with the climatic water balance", "evidence": "2 europe-2020-drought-ecosystems C1", "paragraph": "p1"},
+    {"id": "n1d", "text": "SPEI was introduced to put the atmospheric demand term into the deficit", "evidence": "3 drought-2010-spei C1 (partial: demand term not in the Claim)", "paragraph": "p1"},
+    {"id": "n1e", "text": "Impact is governed by the water state soil and vegetation experience, not the rainfall anomaly alone", "evidence": "待补 (candidate: 4 drought-2014-global-monitoring C7)", "paragraph": "p1"},
+
+    {"id": "n2a", "text": "Monitoring has been organized around the deficit", "evidence": "待补", "paragraph": "p2"},
+    {"id": "n2b", "text": "Global systems assemble near-real-time indicators into maps; some add seasonal probabilistic prediction", "evidence": "4 drought-2014-global-monitoring C1, C8; 5 drought-2017-monitoring-prediction-overview C1 (abstract only)", "paragraph": "p2"},
+    {"id": "n2c", "text": "In-situ indices measure a point and cannot show regional development", "evidence": "6 hazaymeh-2016-drought-review C1", "paragraph": "p2"},
+    {"id": "n2d", "text": "Satellite records are limited by length and by spatial, temporal and spectral resolution", "evidence": "7 remote-sensing-2019-drought-review C1", "paragraph": "p2"},
+    {"id": "n2e", "text": "Monitoring is most complete where the deficit is measured and least where the impact is decided", "evidence": "待补", "paragraph": "p2"},
+
+    {"id": "n3a", "text": "Forecasting has taken a parallel path", "evidence": "待补", "paragraph": "p3"},
+    {"id": "n3b", "text": "Methods broadened from statistical, dynamical and hybrid systems to machine and deep learning", "evidence": "8 drought-2018-seasonal-review C1; 9 drought-2023-prediction-review C1", "paragraph": "p3"},
+    {"id": "n3c", "text": "Soil-moisture predictability now extends from seasonal to decadal horizons", "evidence": "10 soil-moisture-2021-forecast C1, C2", "paragraph": "p3"},
+    {"id": "n3d", "text": "Limit 1: human water use weakens the hydrological-meteorological link (Yellow River basin)", "evidence": "11 vanlanen-2017-hydrological-forecast C1", "paragraph": "p3"},
+    {"id": "n3e", "text": "Limit 2: impact forecasts depend greatly on the availability of impact records", "evidence": "12 drought-2020-impact-forecasts C1", "paragraph": "p3"},
+    {"id": "n3f", "text": "A forecast of the deficit is not a forecast of the damage", "evidence": "待补 (related: 12 C7, C8 on hazard-forecast skill)", "paragraph": "p3"},
+
+    {"id": "n4a", "text": "Damage depends on when and where the deficit lands, not only on its size", "evidence": "待补", "paragraph": "p4"},
+    {"id": "n4b", "text": "Yield loss is tied to the growth stages at which evaporative stress peaks", "evidence": "13 brazil-2016-evaporative-stress C1 (partial: ESI-yield correlation peaks at sensitive growth stages)", "paragraph": "p4"},
+    {"id": "n4c", "text": "Leaf-area sensitivity to soil moisture has increased across many semi-arid and arid regions", "evidence": "14 vegetation-2022-soil-moisture C1", "paragraph": "p4"},
+    {"id": "n4d", "text": "The deficit at which vegetation responds varies from region to region", "evidence": "15 vegetation-2023-drought-thresholds C1", "paragraph": "p4"},
+    {"id": "n4e", "text": "In European forests the water availability-mortality relationship is threshold-like", "evidence": "16 europe-2020-forest-mortality C1", "paragraph": "p4"},
+    {"id": "n4f", "text": "Global aggregates conceal this: no general forest drying trend, large spatial variability", "evidence": "17 forest-2015-dieback-trends C1 (partial: 'conceal' is an inference)", "paragraph": "p4"},
+    {"id": "n4g", "text": "Impact has no single global trajectory; thresholds must be located region by region", "evidence": "待补 (candidates: 15 C1, C7; 16 C17)", "paragraph": "p4"},
+
+    {"id": "n5a", "text": "Onset speed adds a second dimension to the same problem", "evidence": "待补", "paragraph": "p5"},
+    {"id": "n5b", "text": "Flash-drought research has grown rapidly in two decades", "evidence": "18 flash-2024-science-review C1", "paragraph": "p5"},
+    {"id": "n5c", "text": "Agreement on the term is incomplete: rate of intensification versus duration", "evidence": "19 flash-2018-us-review C1; 18 flash-2024-science-review C3", "paragraph": "p5"},
+    {"id": "n5d", "text": "Frequency, predictability and trend estimates inherit that choice", "evidence": "20 flash-2021-definition-sensitivity C1; 18 flash-2024-science-review C4", "paragraph": "p5"},
+    {"id": "n5e", "text": "Whether flash drought is the 'new normal' is unresolved, since slow droughts may be increasing too", "evidence": "21 global-2023-flash-transition C1", "paragraph": "p5"},
+
+    {"id": "n6a", "text": "What remains unresolved is anticipation, not detection", "evidence": "待补", "paragraph": "p6"},
+    {"id": "n6b", "text": "Water states that forecasts can deliver", "evidence": "4 drought-2014-global-monitoring C1; 5 drought-2017-monitoring-prediction-overview C1; 10 soil-moisture-2021-forecast C1, C2", "paragraph": "p6"},
+    {"id": "n6c", "text": "Thresholds at which crops, vegetation and forests respond", "evidence": "13 brazil-2016-evaporative-stress C1 (partial); 14 vegetation-2022-soil-moisture C1; 15 vegetation-2023-drought-thresholds C1; 16 europe-2020-forest-mortality C1", "paragraph": "p6"},
+    {"id": "n6d", "text": "Onset speeds for which a forecast still arrives in time", "evidence": "19 flash-2018-us-review C1; 20 flash-2021-definition-sensitivity C1 (lead-time candidate: 18 flash-2024-science-review C20)", "paragraph": "p6"},
+    {"id": "n6e", "text": "Linking these would let a deficit be read as an expected loss", "evidence": "待补", "paragraph": "p6"},
+    {"id": "n6f", "text": "The present literature does not yet make that connection; it is this article's question", "evidence": "待补", "paragraph": "p6"}
+  ],
+  "edges": [
+    {"id": "e1", "from": "n1a", "to": "n1b", "label": "defines"},
+    {"id": "e2", "from": "n1c", "to": "n1b", "label": "qualifies"},
+    {"id": "e3", "from": "n1d", "to": "n1c", "label": "supports"},
+    {"id": "e4", "from": "n1b", "to": "n1e", "label": "infers"},
+    {"id": "e5", "from": "n1d", "to": "n1e", "label": "supports"},
+    {"id": "e6", "from": "n1c", "to": "n1e", "label": "supports"},
+
+    {"id": "e7", "from": "n2a", "to": "n2b", "label": "defines"},
+    {"id": "e8", "from": "n2c", "to": "n2b", "label": "qualifies"},
+    {"id": "e9", "from": "n2d", "to": "n2b", "label": "qualifies"},
+    {"id": "e10", "from": "n2b", "to": "n2e", "label": "infers"},
+    {"id": "e11", "from": "n2c", "to": "n2e", "label": "supports"},
+    {"id": "e12", "from": "n2d", "to": "n2e", "label": "supports"},
+
+    {"id": "e13", "from": "n3a", "to": "n3b", "label": "defines"},
+    {"id": "e14", "from": "n3b", "to": "n3c", "label": "associates"},
+    {"id": "e15", "from": "n3d", "to": "n3c", "label": "qualifies"},
+    {"id": "e16", "from": "n3e", "to": "n3c", "label": "qualifies"},
+    {"id": "e17", "from": "n3c", "to": "n3f", "label": "infers"},
+    {"id": "e18", "from": "n3d", "to": "n3f", "label": "supports"},
+    {"id": "e19", "from": "n3e", "to": "n3f", "label": "supports"},
+
+    {"id": "e20", "from": "n4a", "to": "n4b", "label": "associates"},
+    {"id": "e21", "from": "n4b", "to": "n4c", "label": "associates"},
+    {"id": "e22", "from": "n4d", "to": "n4c", "label": "qualifies"},
+    {"id": "e23", "from": "n4c", "to": "n4e", "label": "associates"},
+    {"id": "e24", "from": "n4e", "to": "n4f", "label": "associates"},
+    {"id": "e25", "from": "n4f", "to": "n4g", "label": "infers"},
+    {"id": "e26", "from": "n4d", "to": "n4g", "label": "supports"},
+    {"id": "e27", "from": "n4e", "to": "n4g", "label": "supports"},
+
+    {"id": "e28", "from": "n5a", "to": "n5b", "label": "associates"},
+    {"id": "e29", "from": "n5b", "to": "n5c", "label": "opposes"},
+    {"id": "e30", "from": "n5c", "to": "n5d", "label": "infers"},
+    {"id": "e31", "from": "n5d", "to": "n5e", "label": "infers"},
+
+    {"id": "e32", "from": "n6a", "to": "n6e", "label": "infers"},
+    {"id": "e33", "from": "n6b", "to": "n6e", "label": "supports"},
+    {"id": "e34", "from": "n6c", "to": "n6e", "label": "supports"},
+    {"id": "e35", "from": "n6d", "to": "n6e", "label": "qualifies"},
+    {"id": "e36", "from": "n6e", "to": "n6f", "label": "infers"},
+
+    {"id": "e37", "from": "p1", "to": "p2", "label": "supports"},
+    {"id": "e38", "from": "p2", "to": "p3", "label": "associates"},
+    {"id": "e39", "from": "p3", "to": "p4", "label": "supports"},
+    {"id": "e40", "from": "p4", "to": "p5", "label": "associates"},
+    {"id": "e41", "from": "p5", "to": "p6", "label": "infers"}
+  ]
+}

@@ -1,0 +1,8 @@
+SOURCE: https://api.crossref.org/works/10.1002%2F2016rg000549
+RETRIEVED: 2026-11-08
+DOI: 10.1002/2016rg000549
+TITLE: Seasonal Drought Prediction: Advances, Challenges, and Future Prospects
+COVERAGE: Abstract excerpt from Crossref; not full text.
+
+ABSTRACT
+Drought prediction is of critical importance to early warning for drought managements. This review provides a synthesis of drought prediction based on statistical, dynamical, and hybrid methods. Statistical drought prediction is achieved by modeling the relationship between drought indices of interest and a suite of potential predictors, including large‐scale climate indices, local climate variables, and land initial conditions. Dynamical meteorological drought prediction relies on seasonal climate forecast from general circulation models (GCMs), which can be employed to drive hydrological models for agricultural and hydrological drought prediction with the predictability determined by both climate forcings and initial conditions. Challenges still exist in drought prediction at long lead time and under a changing environment resulting from natural and anthropogenic factors. Future research prospects to improve drought prediction include, but are not limited to, high‐quality data assimilation, improved model development with key processes related to drought occurrence, optimal ensemble forecast to select or weight ensembles, and hybrid drought prediction to merge statistical and dynamical forecasts.

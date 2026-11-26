@@ -1,0 +1,17 @@
+[project]
+name = "knowledgepalace"
+version = "0.2.0"
+description = "KnowledgePalace shared core: Claim-anchored paper library, graph index and writing workspace (Python helpers for the DSH plugin)."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+# Only needed to ingest PDF full texts; everything else is standard library.
+pdf = ["pypdfium2>=5.13"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1",
+]

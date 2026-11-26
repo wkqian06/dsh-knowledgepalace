@@ -1,0 +1,8 @@
+SOURCE: https://api.openalex.org/works/doi:10.1029/2006GL028443
+RETRIEVED: 2026-11-24
+DOI: 10.1029/2006GL028443
+TITLE: Expansion of the Hadley cell under global warming
+COVERAGE: Abstract from OpenAlex; not full text.
+
+ABSTRACT
+A consistent weakening and poleward expansion of the Hadley circulation is diagnosed in the climate change simulations of the IPCC AR4 project. Associated with this widening is a poleward expansion of the subtropical dry zone. Simple scaling analysis supports the notion that the poleward extent of the Hadley cell is set by the location where the thermally driven jet first becomes baroclinically unstable. The expansion of the Hadley cell is caused by an increase in the subtropical static stability, which pushes poleward the baroclinic instability zone and hence the outer boundary of the Hadley cell.
