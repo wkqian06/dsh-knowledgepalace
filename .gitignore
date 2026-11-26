@@ -14,3 +14,7 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+
+# Full recordings stay local; the README embeds the GIF previews
+docs/media/*.mp4
+docs/media/*-poster.jpg

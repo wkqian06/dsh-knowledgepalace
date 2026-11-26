@@ -6,7 +6,7 @@
 
 **DeepSeek Harness 里的个人学术智库：你读过的每篇论文，连原文引句和页码一起记住，并在此基础上推理，而不是凭空猜测。**
 
-[English](README.md) · [简体中文](README.zh-CN.md) · [文档](docs/getting-started.zh-CN.md) · [演示视频](docs/media/demo.zh-CN.mp4)
+[English](README.md) · [简体中文](README.zh-CN.md) · [文档](docs/getting-started.zh-CN.md) · [演示](#演示) · [GitHub](https://github.com/wkqian06/dsh-knowledgepalace)
 
 ![License](https://img.shields.io/badge/license-MIT-blue) ![DSH plugin](https://img.shields.io/badge/DSH-plugin-7C6AF2) ![Python](https://img.shields.io/badge/python-3.12%2B-35B8A6)
 
@@ -20,14 +20,14 @@
 
 | 需要 | 用途 |
 |---|---|
-| 带 Web UI 的 DeepSeek Harness | 测试于 `0.2.2-rc.3` |
+| 带 Web UI 的 DeepSeek Harness | 测试于 `0.2.2-rc.5` |
 | **Python 3.12 或更新** | 机械核心是纯标准库 Python。这是最常见的安装问题：DSH 找不到 3.12+ 时，所有知识库操作都会失败，并提示你设置 `PALACE_PYTHON`。 |
 | Node.js `^22.19` 或 `>=24` | DSH 本身已要求 |
 | `pypdfium2`（可选） | 仅用于入库 PDF 全文：`pip install pypdfium2` |
 
 **从 DSH 安装**——在 *Plugin Manager* 里安装该插件包（插件市场上架后可直接搜索 `dsh-knowledgepalace`），或直接对智能体说 *“install the dsh-knowledgepalace bundle”*。之后侧边栏会出现 **知识宫殿** 入口。
 
-**从源码安装**——`git clone <repository-url> dsh-knowledgepalace`，进入目录运行 `npm install`，然后在 DSH 里选择 *Plugin Manager → install a local directory* 并选中该目录。
+**从源码安装**——`git clone https://github.com/wkqian06/dsh-knowledgepalace.git dsh-knowledgepalace`，进入目录运行 `npm install`，然后在 DSH 里选择 *Plugin Manager → install a local directory* 并选中该目录。
 
 ## 试用演示库——无需配置
 
@@ -99,11 +99,11 @@ export PALACE_CONFIG=~/palace/.palace.toml   # PowerShell: $env:PALACE_CONFIG = 
 
 面向贡献者的设计说明：[DESIGN.md](DESIGN.md)、[CONTEXT.md](CONTEXT.md)、[PALACE.md](PALACE.md)，智能体契约 [AGENTS.md](AGENTS.md)。
 
-## 演示视频
+## 演示
 
-[![演示预览](docs/media/demo.zh-CN-preview.gif)](docs/media/demo.zh-CN.mp4)
+![演示：知识图谱、有据回答与论证图](docs/media/demo.zh-CN-preview.gif)
 
-[▶ docs/media/demo.zh-CN.mp4](docs/media/demo.zh-CN.mp4)（约 2 分钟；English: [demo.en.mp4](docs/media/demo.en.mp4)）。录自真实的 DSH 界面与演示库：知识图谱、由 Claude Sonnet 5.5 真实回答的提问，以及写作项目的论证图与修订。模型运行时的等待已剪掉，视频里注明了剪去的秒数。
+约 30 秒，录自真实的 DSH 界面与演示库：两个领域的知识图谱、由 Claude Sonnet 5.5 真实回答并引用 Claim 的提问，以及写作项目的论证图。模型运行时的等待已从录制中剪掉。English: [demo.en-preview.gif](docs/media/demo.en-preview.gif)。
 
 ## 关于演示库
 

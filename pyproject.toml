@@ -7,6 +7,11 @@ license = "MIT"
 requires-python = ">=3.12"
 dependencies = []
 
+[project.urls]
+Homepage = "https://github.com/wkqian06/dsh-knowledgepalace"
+Repository = "https://github.com/wkqian06/dsh-knowledgepalace"
+Issues = "https://github.com/wkqian06/dsh-knowledgepalace/issues"
+
 [project.optional-dependencies]
 # Only needed to ingest PDF full texts; everything else is standard library.
 pdf = ["pypdfium2>=5.13"]

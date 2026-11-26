@@ -6,7 +6,7 @@
 
 **Your personal academic think tank, inside DeepSeek Harness: it remembers every paper you read — down to the quote and the page — and reasons with it instead of guessing.**
 
-[English](README.md) · [简体中文](README.zh-CN.md) · [Docs](docs/getting-started.md) · [Demo video](docs/media/demo.en.mp4)
+[English](README.md) · [简体中文](README.zh-CN.md) · [Docs](docs/getting-started.md) · [Demo](#demo) · [GitHub](https://github.com/wkqian06/dsh-knowledgepalace)
 
 ![License](https://img.shields.io/badge/license-MIT-blue) ![DSH plugin](https://img.shields.io/badge/DSH-plugin-7C6AF2) ![Python](https://img.shields.io/badge/python-3.12%2B-35B8A6)
 
@@ -20,14 +20,14 @@ Papers become *cards*; cards carry *Claims* with a verbatim quote and a page/sec
 
 | Needed | Why |
 |---|---|
-| DeepSeek Harness with the Web UI | Tested on `0.2.2-rc.3` |
+| DeepSeek Harness with the Web UI | Tested on `0.2.2-rc.5` |
 | **Python 3.12 or newer** | The mechanical core is standard-library Python. This is the most common setup problem: if DSH cannot find 3.12+, every library action fails with a message telling you to set `PALACE_PYTHON`. |
 | Node.js `^22.19` or `>=24` | Already required by DSH |
 | `pypdfium2` *(optional)* | Only to ingest PDF full texts: `pip install pypdfium2` |
 
 **From DSH** — install the bundle in *Plugin Manager* (search `dsh-knowledgepalace` once the plugin market lists it), or ask the agent to *"install the dsh-knowledgepalace bundle"*. A **KnowledgePalace** entry then appears in the sidebar.
 
-**From a checkout** — `git clone <repository-url> dsh-knowledgepalace`, run `npm install` inside it, then in DSH choose *Plugin Manager → install a local directory* and pick that folder.
+**From a checkout** — `git clone https://github.com/wkqian06/dsh-knowledgepalace.git dsh-knowledgepalace`, run `npm install` inside it, then in DSH choose *Plugin Manager → install a local directory* and pick that folder.
 
 ## Try the demo library — no setup
 
@@ -99,11 +99,11 @@ Full reference: [docs/commands.md](docs/commands.md).
 
 Contributor notes: [DESIGN.md](DESIGN.md), [CONTEXT.md](CONTEXT.md), [PALACE.md](PALACE.md), agent contract [AGENTS.md](AGENTS.md).
 
-## Demo video
+## Demo
 
-[![Demo preview](docs/media/demo.en-preview.gif)](docs/media/demo.en.mp4)
+![Demo: the knowledge graph, a grounded answer, and the argument graph](docs/media/demo.en-preview.gif)
 
-[▶ docs/media/demo.en.mp4](docs/media/demo.en.mp4) (about 2 min; 中文版: [demo.zh-CN.mp4](docs/media/demo.zh-CN.mp4)). Recorded in the real DSH interface with the demo library: the graph, a real question answered by Claude Sonnet 5.5, and the writing project's argument graph and revisions. The wait while the model works is cut, and the video says how many seconds were removed.
+About 30 seconds, recorded in the real DSH interface with the demo library: the two-domain graph, a real question answered by Claude Sonnet 5.5 with its Claim citations, and the writing project's argument graph. The wait while the model works is cut from the recording. 中文版: [demo.zh-CN-preview.gif](docs/media/demo.zh-CN-preview.gif).
 
 ## About the demo library
 

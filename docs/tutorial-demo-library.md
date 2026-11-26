@@ -6,7 +6,7 @@ The plugin ships a ready-made library, **Demo library (drought papers)**: 70 rea
 
 > **Before citing anything from the demo:** the demo ships cards and short abstract records, not the papers themselves. Check each quote against the original paper. See [About the demo library](../README.md#about-the-demo-library).
 
-▶ Prefer video? [demo.en.mp4](media/demo.en.mp4) covers the same path in about 2 minutes, recorded in the real interface.
+▶ Prefer the short version? The [demo animation](media/demo.en-preview.gif) (about 30 s) covers the same path, recorded in the real interface.
 
 ## 1. Open the demo library
 

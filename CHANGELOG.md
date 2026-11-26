@@ -14,4 +14,4 @@ First public release.
 - `PALACE_CONFIG` and `PALACE_PYTHON` environment variables; Python discovery no longer assumes a fixed path, and a `.palace.toml` saved with a UTF-8 BOM is accepted.
 - Subagents consolidated to four definitions (`extractor`, `stylist`, `auditor`, `reviewer`); `palace_agent` takes those roles, and the remaining advice lives in the skills.
 - A newly created library reads as empty instead of failing: a missing `concepts.md` or `domains.md` is reported as an empty registry.
-- Two demo videos (English and 简体中文) recorded in the real interface.
+- Two demo animations (GIF, English and 简体中文) recorded in the real interface and embedded in the README.
