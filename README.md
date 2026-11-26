@@ -123,6 +123,14 @@ python -m unittest discover -s knowledge_palace/tests -t .   # Python tests
 
 `index.js` (Host plugin, tools, web endpoint) · `client.js` (Web panel) · `python.js` (interpreter discovery) · `graph-visualization.html` (3D explorer page) · `knowledge_palace/` (Python core: graph, acquisition, workspace, viewer, skills, subagent definitions) · `demo-library/`.
 
+## Acknowledgements
+
+This plugin is the DeepSeek Harness version of [KnowledgePalace](https://github.com/wkqian06/KnowledgePalace) (the Claude Code / Codex version): the `/palace` protocol, the skills, the Vault layout and the Claim-level evidence model come from that project, and this version focuses on strengthening visualisation and interaction.
+
+The database concepts of the [KnowledgePalace](https://github.com/wkqian06/KnowledgePalace) project are architected on Andrej Karpathy's [LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+
+Graph visualisation was inspired by [1-CellBio/dsh-okf](https://github.com/1-CellBio/dsh-okf).
+
 ## License
 
 [MIT](LICENSE) © wkqian06

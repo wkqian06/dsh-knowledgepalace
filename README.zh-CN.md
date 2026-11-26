@@ -123,6 +123,14 @@ python -m unittest discover -s knowledge_palace/tests -t .   # Python 测试
 
 `index.js`（Host 插件、工具、web 端点）· `client.js`（Web 面板）· `python.js`（解释器发现）· `graph-visualization.html`（3D 星图页面）· `knowledge_palace/`（Python 核心：图谱、采集、工作区、viewer、skills、子代理定义）· `demo-library/`。
 
+## 致谢
+
+本插件是 [KnowledgePalace](https://github.com/wkqian06/KnowledgePalace)（Claude Code / Codex 版本）的 DeepSeek Harness 版：`/palace` 协议、各 skill、Vault 布局与 Claim 级证据模型均来自该项目，本项目旨在加强可视化与交互操作。
+
+[KnowledgePalace](https://github.com/wkqian06/KnowledgePalace) 项目的数据库概念以 Andrej Karpathy 的 [LLM Wiki 模式](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 为架构。
+
+图谱可视化方案受 [1-CellBio/dsh-okf](https://github.com/1-CellBio/dsh-okf) 启发。
+
 ## 许可证
 
 [MIT](LICENSE) © wkqian06
