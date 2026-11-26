@@ -8,7 +8,7 @@
 
 | 需要 | 原因 |
 |---|---|
-| DeepSeek Harness（Web UI） | 插件会添加侧边栏面板、`/palace` 命令和 `palace_*` 工具。开发并测试于 `0.2.2-rc.3`。 |
+| DeepSeek Harness（Web UI） | 插件会添加侧边栏面板、`/palace` 命令和 `palace_*` 工具。开发并测试于 `0.2.2-rc.5`。 |
 | Node.js `^22.19` 或 `>=24` | DSH 本身已要求。 |
 | **Python 3.12 或更新版本** | 机械核心（图索引、检索、写作工作区、viewer）是纯标准库 Python。 |
 | `pypdfium2` *（可选）* | 仅用于入库 PDF 全文：`pip install pypdfium2`。 |

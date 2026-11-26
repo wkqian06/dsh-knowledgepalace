@@ -8,7 +8,7 @@ This guide takes you from nothing to a working **Private library** in about ten 
 
 | Needed | Why |
 |---|---|
-| DeepSeek Harness (Web UI) | The plugin adds a sidebar panel, the `/palace` command and the `palace_*` tools. Developed and tested on `0.2.2-rc.3`. |
+| DeepSeek Harness (Web UI) | The plugin adds a sidebar panel, the `/palace` command and the `palace_*` tools. Developed and tested on `0.2.2-rc.5`. |
 | Node.js `^22.19` or `>=24` | Already required by DSH. |
 | **Python 3.12 or newer** | The mechanical core (graph index, retrieval, writing workspace, viewer) is standard-library Python. |
 | `pypdfium2` *(optional)* | Only for ingesting PDF full texts: `pip install pypdfium2`. |
