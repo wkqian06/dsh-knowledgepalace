@@ -3,14 +3,29 @@
   "version": "0.2.0",
   "description": "Your personal academic think tank for DeepSeek Harness: a Claim-anchored paper library and 3D knowledge graph that your model reasons with, plus evidence-backed writing sessions.",
   "author": "wkqian06 (https://github.com/wkqian06)",
-  "repository": { "type": "git", "url": "git+https://github.com/wkqian06/dsh-knowledgepalace.git" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkqian06/dsh-knowledgepalace.git"
+  },
   "homepage": "https://github.com/wkqian06/dsh-knowledgepalace#readme",
-  "bugs": { "url": "https://github.com/wkqian06/dsh-knowledgepalace/issues" },
+  "bugs": {
+    "url": "https://github.com/wkqian06/dsh-knowledgepalace/issues"
+  },
   "license": "MIT",
   "type": "module",
-  "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "research", "knowledge-graph", "literature", "evidence"],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "research",
+    "knowledge-graph",
+    "literature",
+    "evidence"
+  ],
   "icon": "./icon.svg",
-  "engines": { "node": "^22.19 || >=24" },
+  "engines": {
+    "node": "^22.19 || >=24"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
@@ -19,25 +34,55 @@
     "./package.json": "./package.json"
   },
   "files": [
-    "index.js", "python.js", "session-bindings.js", "client.js", "graph-visualization.html",
-    "cordis.patch.yml", "locale/*.json", "icon.svg", "docs", "!docs/media",
-    "knowledge_palace", "!knowledge_palace/tests", "!**/__pycache__",
+    "index.js",
+    "python.js",
+    "session-bindings.js",
+    "client.js",
+    "graph-visualization.html",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "icon.svg",
+    "assets",
+    "docs",
+    "!docs/media",
+    "knowledge_palace",
+    "!knowledge_palace/tests",
+    "!**/__pycache__",
     "demo-library",
-    ".palace.example.toml", "pyproject.toml",
-    "README.md", "README.zh-CN.md", "CHANGELOG.md", "PALACE.md", "CONTEXT.md", "AGENTS.md", "DESIGN.md", "LICENSE"
+    ".palace.example.toml",
+    "pyproject.toml",
+    "README.md",
+    "README.zh-CN.md",
+    "CHANGELOG.md",
+    "PALACE.md",
+    "CONTEXT.md",
+    "AGENTS.md",
+    "DESIGN.md",
+    "LICENSE",
+    "screenshots.json"
   ],
-  "dependencies": { "zod": "4.4.3" },
+  "dependencies": {
+    "zod": "4.4.3"
+  },
   "scripts": {
     "check": "node --check index.js && node --check python.js && node --check client.js",
     "test": "node --test tests/*.test.js session-bindings.test.js",
     "test:python": "python -m unittest discover -s knowledge_palace/tests -t ."
   },
   "dsh": {
-    "bundle": { "patch": "./cordis.patch.yml" },
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
     "client": {
       "platform": "web",
       "immediately": true,
-      "inject": ["@deepseek-ai/dsh-client-ui-layout", "@deepseek-ai/dsh-client-ui-sidebar", "@deepseek-ai/dsh-client-ui-workspace", "@deepseek-ai/dsh-client-locale", "@deepseek-ai/dsh-client-session-controller"]
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-layout",
+        "@deepseek-ai/dsh-client-ui-sidebar",
+        "@deepseek-ai/dsh-client-ui-workspace",
+        "@deepseek-ai/dsh-client-locale",
+        "@deepseek-ai/dsh-client-session-controller"
+      ]
     }
   }
 }
